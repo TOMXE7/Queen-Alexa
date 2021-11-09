@@ -1,8 +1,8 @@
 {
-"name": "Queen-Alexa",
+"name": "TOM-XE",
   "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/HYPER-MOD/Queen-Alexa",
-  "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
+  "repository": "https://github.com/TOM-XE/TOM-XE",
+  "logo": "https://www.linkpicture.com/q/TOM-XE-LOGO.jpg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
